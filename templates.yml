@@ -1,0 +1,14 @@
+review: |
+  My Python tutorial contains the following fragment, which is enclosed in triple quotes below:
+  
+  ```
+  {fragment}
+  ```
+  
+  I just got this feedback about that particular fragment, also enclosed in triple quotes below, from a reviewer:
+  
+  ```
+  {feedback}
+  ```
+  
+  Can you make the requested changes to that fragment, please? Alternatively, you may push back if there's a legitimate reason.
